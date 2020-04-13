@@ -1,10 +1,12 @@
 {
   "name": "tarefadeprog",
   "version": "1.0.0",
-  "description": "",
+  "description": "projeto mesmo projeto",
   "main": "index.html",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  	"start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite":"lite-server"
   },
   "repository": {
     "type": "git",
@@ -15,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/LeoMartinsSilva/tarefadeprog/issues"
   },
-  "homepage": "https://github.com/LeoMartinsSilva/tarefadeprog#readme"
+  "homepage": "https://github.com/LeoMartinsSilva/tarefadeprog#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
 }
