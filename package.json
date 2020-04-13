@@ -1,0 +1,19 @@
+{
+  "name": "tarefadeprog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeoMartinsSilva/tarefadeprog.git"
+  },
+  "author": "Leonardo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LeoMartinsSilva/tarefadeprog/issues"
+  },
+  "homepage": "https://github.com/LeoMartinsSilva/tarefadeprog#readme"
+}
